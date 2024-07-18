@@ -21,7 +21,7 @@
         android:layout_width="match_parent"
         android:layout_height="80dp"
         android:layout_gravity="bottom"
-        android:background="#ffc1cc"
+        android:background="@drawable/roundcorners"
         app:cnb_badgeColor="#6699cc"
         app:cnb_iconSize="35dp"
         app:cnb_menuResource="@menu/nav_menu"
