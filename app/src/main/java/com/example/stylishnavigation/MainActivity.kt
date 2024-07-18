@@ -28,6 +28,7 @@ class MainActivity : AppCompatActivity() {
                 R.id.message -> {
                     binding.textView.text = "Chat"
                     Toast.makeText(this,"Chat",Toast.LENGTH_LONG).show()
+                    
                 }
                 R.id.person -> {
                     binding.textView.text = "Person"
